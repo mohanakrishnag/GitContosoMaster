@@ -1,4 +1,4 @@
-GitContosoMaster1
+GitContosoMasterNew
 ================
 
 This is going to Master of Contoso Site
